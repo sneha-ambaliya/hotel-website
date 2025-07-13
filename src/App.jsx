@@ -52,7 +52,7 @@ function App() {
         <Achivment/>
         <Reservation />
         <Staff />
-        <Community />
+        {/* <Community /> */}
         <Blog />
         <Faq />
         <Instagram />
